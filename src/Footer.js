@@ -2,8 +2,8 @@ import React from "react";
 
 export default function Footer(){
     return (
-        <h3>
+        <small>
             Open-source code by Valeria Cacciapaglia
-        </h3>
+        </small>
     )
 }
