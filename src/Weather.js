@@ -43,7 +43,7 @@ export default function Weather() {
     <div>
       <form className="input" onSubmit={handleSubmit}>
         <input type="search" placeholder="Enter a city" onChange={updateCity} />
-        <input type="submit" value="search" />
+        <input type="submit" value="Search" />
       </form>
       {time}
     </div>
