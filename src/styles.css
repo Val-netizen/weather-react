@@ -3,4 +3,8 @@
     font-family: sans-serif;
     text-align: center;
     color: white;
+    display: block;
+    margin: 0 auto;
+    border: 1px solid black;
+    border-radius: 8px;
   }
