@@ -4,7 +4,7 @@ export default function Footer(){
     return (
         <div>
         <small>
-            Open-source code by Valeria Cacciapaglia
+            <a href="https://github.com/Val-netizen/weather-react">Open-source code</a> by Valeria Cacciapaglia
         </small>
         </div>
     )
