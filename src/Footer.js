@@ -5,7 +5,7 @@ export default function Footer(){
     return (
         <div>
         <small>
-            <a style={{display: "table-cell"}} href = "https://github.com/Val-netizen/weather-react" target = "_blank" rel = "noopener noreferrer">Open-source code</a>
+            <a style={{display: "table-cell"}} href = "https://github.com/Val-netizen/weather-react" target = "_blank" rel = "noopener noreferrer">Open-source code</a> by Valeria Cacciapaglia
         </small>
         </div>
     )
