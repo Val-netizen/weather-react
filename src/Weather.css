@@ -49,6 +49,10 @@
   top: -34px;
 }
 
+.Weather .unit a {
+  color: #FFEFBA;
+}
+
 button:active {
   background-color: #1a51d2;
   transform: translateY(3px);
