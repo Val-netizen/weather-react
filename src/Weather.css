@@ -38,7 +38,7 @@
 
 .Weather .temperature {
   font-weight: bold;
-  color: #3e2929;
+  color: #FFEFBA;
   font-size: 64px;
   line-height: 64px;
   font-weight: 400;
@@ -50,7 +50,7 @@
 }
 
 .Weather .unit {
-  color: #3e2929;
+  color: #FFEFBA;
   font-size: 16px;
   font-weight: 400;
   position: relative;
@@ -59,7 +59,7 @@
 }
 
 .Weather .unit a {
-  color: #FFEFBA;
+  color: rgb(41, 40, 40);
 }
 
 button:active {
