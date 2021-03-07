@@ -65,22 +65,28 @@ button:active {
   justify-content: center;
 }
 
+.inputSearch::-webkit-search-cancel-button{
+  position:relative;
+  right:20px;    
+}
+
 .btn,
 .btn-search {
-  background: #1a76d2 !important;
+  background: #1a76d2;
   border: none;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25),
     inset 0px 4px 4px rgba(25, 156, 215, 0.67);
-  color: #FFEFBA !important;
+  color: #FFEFBA;
+
 }
 
 .btn {
-  border-radius: 32px !important;
-  margin-top: 30px;
+  border-radius: 32px;
+  margin-top: 1px;
   margin-right: 15px;
 }
 .btn:hover {
-  background-color: #1a51d2 !important;
+  background-color: #1a51d2;
 }
 
 .btn-search {
@@ -90,7 +96,7 @@ button:active {
   margin-top: 30px;
 }
 .btn-search:hover {
-  background-color: #1a51d2 !important;
+  background-color: #1a51d2;
 }
 
 .type-city {
