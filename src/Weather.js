@@ -41,6 +41,7 @@ export default function Weather(props) {
       <div className="Weather">
         <form onSubmit={handleSubmit}>
           <div className="row">
+          <h1>Happy Weather App</h1>
             <div className="col-9">
               <input
                 type="search"
