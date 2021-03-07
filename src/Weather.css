@@ -8,11 +8,11 @@
 }
 
 .Weather .title {
-  text-align: center;
+  display: block;
+  margin: 20px auto;
   font-family: 'Ribeye Marrow', cursive;
   font-size: 30px;
   font-weight: 400;
-  margin: 20px 0;
   line-height: 30px;
 }
 
