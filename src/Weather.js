@@ -42,7 +42,6 @@ export default function Weather(props) {
         <form onSubmit={handleSubmit}>
         <div className="row">
           <h1 className="title">Happy Weather App</h1>
-          <br />
         </div>
           <div className="row">
             <div className="col-9">
